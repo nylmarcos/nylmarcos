@@ -8,7 +8,7 @@ Sou um FullStack Developer :computer:
 :rocket: &nbsp; Buscando novos desafios
 <br/> :computer: &nbsp; Minha stack: HTML, CSS e JavaScript
 <br /> :blue_book: &nbsp; Estudando: ReactJS, Node.js, Flutter & Typescript
-<br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Nyl Marcos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nylmarcos/)](https://www.linkedin.com/in/nylmarcos/)
+<br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-NylMarcos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/nylmarcos/)](https://www.linkedin.com/in/nylmarcos/)
 |
 [![Gmail Badge](https://img.shields.io/badge/-nylmarcos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nylmarcos@gmail.com)](mailto:nylmarcos@gmail.com)
 
